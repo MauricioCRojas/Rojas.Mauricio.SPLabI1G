@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1625527573 source:c:\users\mauri\desktop\parcial\2plab\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1625527573 c:\users\mauri\desktop\parcial\2plab\linkedlist.h
+
+1625531330 source:c:\users\mauri\desktop\parcial\2plab\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"paises.h"
+	"parser.h"
+	"Controller.h"
+
+1625531147 c:\users\mauri\desktop\parcial\2plab\paises.h
+
+1624055624 c:\users\mauri\desktop\parcial\2plab\parser.h
+
+1625530348 c:\users\mauri\desktop\parcial\2plab\controller.h
+
+1621576917 c:\users\mauri\desktop\parcial\2plab\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1621576917 source:c:\users\mauri\desktop\parcial\2plab\validaciones.c
+	"validaciones.h"
+
+1625531261 source:c:\users\mauri\desktop\parcial\2plab\paises.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"paises.h"
+
+1625531261 source:c:\users\mauri\desktop\parcial\2plab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"LinkedList.h"
+	"paises.h"
+	"parser.h"
+	"Controller.h"
+
+1625525069 source:c:\users\mauri\desktop\parcial\2plab\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"paises.h"
+	"parser.h"
+	"Controller.h"
+
+1625531330 source:c:\users\mauri\desktop\parcial\rojasmauricio.2plab\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"paises.h"
+	"parser.h"
+	"Controller.h"
+
+1625527573 c:\users\mauri\desktop\parcial\rojasmauricio.2plab\linkedlist.h
+
+1625531147 c:\users\mauri\desktop\parcial\rojasmauricio.2plab\paises.h
+
+1624055624 c:\users\mauri\desktop\parcial\rojasmauricio.2plab\parser.h
+
+1625530348 c:\users\mauri\desktop\parcial\rojasmauricio.2plab\controller.h
+
+1625527573 source:c:\users\mauri\desktop\parcial\rojasmauricio.2plab\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1625531503 source:c:\users\mauri\desktop\parcial\rojasmauricio.2plab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"LinkedList.h"
+	"paises.h"
+	"parser.h"
+	"Controller.h"
+
+1625531261 source:c:\users\mauri\desktop\parcial\rojasmauricio.2plab\paises.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"paises.h"
+
+1625525069 source:c:\users\mauri\desktop\parcial\rojasmauricio.2plab\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"paises.h"
+	"parser.h"
+	"Controller.h"
+
